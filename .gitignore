@@ -1,3 +1,19 @@
+# My excluded folders and files
+aug_output/
+complete_ds/
+dataset_output/
+logs_tr/
+out_logs/
+output/
+.DS_Store
+__pycache__/
+report/
+
+table_data.xlsx
+exploratory_data_analysis_report.ipynb
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -54,16 +70,6 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
 
 # Scrapy stuff:
 .scrapy
